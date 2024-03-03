@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-<br>👋 Hi, I’m Doreen Njagi<br>👀 I’m interested in Software Dev<br>🌱 I’m currently learning MERN Stack<br>💞️ I’m looking to collaborate on Web dev<br>📫 How to reach me @Doreen Njagi
- <br> 🌱I’m also learning AWS Cloud Practioning <br> 🌱ALX AiCE - AI Career Essentials 
+<br>👋 Hi, I’m Doreen Njagi<br>👀 I’m interested in Software Dev<br>🌱 I’m currently learning MERN Stack<br>💞️ I’m looking to collaborate on Web dev
+ <br> 🌱I’m also learning AWS Cloud Practioning <br> 🌱ALX AiCE - AI Career Essentials <br>📫 How to reach me @Doreen Njagi
 
 
 ## 🌐 Socials:
