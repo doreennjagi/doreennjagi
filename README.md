@@ -7,7 +7,7 @@ Whether it's cleaning messy datasets, building dashboards, or exploring the clou
 
 ### 👩🏽‍💻 About Me  
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 20px;">
 
 <div style="flex: 1; min-width: 250px;">
 
@@ -18,10 +18,9 @@ Whether it's cleaning messy datasets, building dashboards, or exploring the clou
 
 </div>
 
-<div style="flex: 0.5; text-align: center; min-width: 200px; margin-top: 10px;">
+<div style="flex: 0 0 auto; text-align: center;">
 
-<img src="https://raw.githubusercontent.com/doreennjagi/doreennjagi/main/profile.png" alt="Reen Avatar" width="200"/>
-
+<img src="https://raw.githubusercontent.com/doreennjagi/doreennjagi/main/b016196b-a5da-4ed4-95cb-efd41b7846da.jpeg" width="150" style="border-radius: 10px;"/>
 
 </div>
 
@@ -54,15 +53,12 @@ Whether it's cleaning messy datasets, building dashboards, or exploring the clou
 
 ### 📊 GitHub Stats  
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreennjagi&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreennjagi&layout=compact&theme=radical&hide_border=true" width="48%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreennjagi&show_icons=true&theme=radical&hide_border=true" width="30%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreennjagi&layout=compact&theme=radical&hide_border=true&langs_count=5" width="30%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doreennjagi&theme=radical&hide_border=true" width="30%"/>
 
-</div>
-
-<div style="margin-top: 10px;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doreennjagi&theme=radical&hide_border=true" width="100%"/>
 </div>
 
 ---
