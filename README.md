@@ -1,34 +1,38 @@
 # Hey there 👋🏽, I'm Reen  
 
-📊 A **Junior Data Analyst** from Kenya passionate about turning raw data into **meaningful insights & stories**.  
-Whether it's cleaning messy datasets, building dashboards, or exploring the cloud ☁️ — I thrive on uncovering patterns and making data speak.
+   📊 A **Junior Data Analyst** from Kenya passionate about turning raw data into **meaningful insights & stories**.  
+    Whether it's cleaning messy datasets, building dashboards, or exploring the cloud ☁️ — I thrive on uncovering patterns and making data speak.
 
 ---
 
 ### 👩🏽‍💻 About Me  
 
-<div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 20px;">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<div style="flex: 1; min-width: 250px;">
+- 🔭 **Currently working on:** SQL & Excel Data Cleaning + Visualization projects
+  
+- 🌱 **Growing in:** Data Science & Cloud Engineering (AWS & Azure)
+  
+- 💬 **Passionate about:** Analytics workflows, dashboards, automating data pipelines, and uncovering hidden trends
+  
+- 💡 **Skills:** SQL, Python, Excel, Power BI, Tableau, GitHub, AWS, Azure
+  
+I thrive on solving complex problems, finding patterns in data, and turning numbers into stories that matter.
+- 📫 **Reach me at:** [reennjagi@gmail.com](mailto:reennjagi@gmail.com)  
 
-- 🔭 Currently working on: SQL & Excel Data Cleaning + Visualization projects  
-- 🌱 Growing in: Data Science & Cloud Engineering (AWS + Azure)  
-- 💬 Love talking about: Data Cleaning • Dashboards • Analytics Workflows • Turning numbers into narratives  
-- 📫 Reach me at: **[reennjagi@gmail.com](mailto:reennjagi@gmail.com)**
+</td>
+<td width="40%" valign="top" align="center">
 
-</div>
+<img src="https://raw.githubusercontent.com/doreennjagi/doreennjagi/main/b016196b-a5da-4ed4-95cb-efd41b7846da.jpeg" width="450" style="border-radius: 20px;"/>
 
-<div style="flex: 0 0 auto; text-align: center;">
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/doreennjagi/doreennjagi/main/b016196b-a5da-4ed4-95cb-efd41b7846da.jpeg" width="150" style="border-radius: 10px;"/>
 
-</div>
 
-</div>
-
----
-
-### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
@@ -40,16 +44,19 @@ Whether it's cleaning messy datasets, building dashboards, or exploring the clou
 
 **Languages & Tools**  
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
----
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+
+</div>
+
 
 ### 📊 GitHub Stats  
 
