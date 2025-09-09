@@ -58,17 +58,6 @@ I thrive on solving complex problems, finding patterns in data, and turning numb
 </div>
 
 
-### 📊 GitHub Stats  
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreennjagi&show_icons=true&theme=radical&hide_border=true" width="30%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreennjagi&layout=compact&theme=radical&hide_border=true&langs_count=5" width="30%"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doreennjagi&theme=radical&hide_border=true" width="30%"/>
-
-</div>
-
----
 
 ### 💡 Analyst Quotes I Live By  
 
